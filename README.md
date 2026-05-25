@@ -2,7 +2,7 @@
 
 **Bridging the hardware-software gap with AI, Embedded Systems, and Quantum Computing.**
 
-I am a fourth-year Computer Systems Engineering student specializing in developing autonomous systems, machine learning models, and rapid hardware prototypes. I thrive in competitive environments and have a track record of securing 1st place in multiple national hackathons.
+I am a fourth-year Computer Systems Engineering student specializing in developing autonomous systems, machine learning models, and rapid hardware prototypes. I thrive in competitive environments and national hackathons.
 
 📫 **Reach me at:** [rubaaldaghamin@gmail.com](mailto:rubaaldaghamin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ruba-aldaghamin) | [Hugging Face](https://huggingface.co/SimplyRuba)
 
