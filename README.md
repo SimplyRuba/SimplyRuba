@@ -93,7 +93,7 @@ A live simulation of a central controller managing multiple servers under stress
 
 An automated sorting system built to support agricultural efficiency by separating crops based on quality and size. Integrated a custom physical conveyor belt mechanism controlled by Arduino microcontrollers to automate the physical sorting logic in real-time.
 
-<a href="https://drive.google.com/file/d/1Ugcgr3uKrwihwNRl6VcVjrUPaSvYYCx3/view?usp=drive_link"><img src="https://img.shields.io/badge/▶️_Watch_Conveyor_Belt-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Fruit Sorter" /></a>
+<a href="https://youtube.com/shorts/e4Xua6-JjoE"><img src="https://img.shields.io/badge/▶️_Watch_Conveyor_Belt-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Fruit Sorter" /></a>
 
 ---
 <div align="center">
