@@ -15,16 +15,29 @@
 
 ---
 
+## 👩🏻‍💻 About Me
+
+I'm a Fourth-year **Computer Systems Engineering** student at Birzeit University, with a passion for building systems that solve real-world problems. I thrive in competitive environments and have a proven track record of securing multiple hackathon victories through rapid prototyping and system optimization.
+
+- 🌍 **Global Perspective:** Completed an Erasmus+ exchange at the University of Messina, Italy.
+- 💡 **Leadership:** Currently serving as a Palestinian Youth Leaders Program (PYLP) Fellow, leading a green initiative on campus.
+- 🎯 **Focus Areas:** Artificial Intelligence, Hardware-Software Integration, and Community-centered Design.
+
+<br>
+
+---
+
 <div align="center">
   <h2>🛠️ Skills & Technologies</h2>
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Programming & Databases</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
@@ -41,8 +54,9 @@
   <h3>Hardware & Systems</h3>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Verilog-0052CC?style=for-the-badge&logo=nexperia&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </div>
 
 <br>
@@ -51,7 +65,15 @@
 
 ## 🚀 Featured Projects & Simulations
 
-### 1. Autonomous Micromouse Maze Solver 🐭
+### 1. Llama-3.1-8B Agentic Reasoning 🧠
+*Llama 3.1, LoRA, Unsloth, Python, PEFT*
+
+Fine-tuned Llama-3.1-8B-Instruct to eliminate "premature commitment" in sequential tool-use environments. Engineered a synthetic data generation and distillation pipeline enforcing a "Wait-and-Act" protocol. 
+> **Result:** Achieved 81.0% overall accuracy, 100% conditional logic adherence, and a 92% parallel execution pass rate on a custom adversarial benchmark.
+
+<br>
+
+### 2. Autonomous Micromouse Maze Solver 🐭
 *C++, Pathfinding Algorithms (BFS), Sensor Fusion, ESP32, LiDAR*
 
 Engineered an autonomous robot that navigates unknown 8x8 physical mazes. It dynamically maps walls using Time-of-Flight (ToF) arrays and calculates optimal escape routes using a Flood-Fill BFS algorithm. 
@@ -62,24 +84,22 @@ Engineered an autonomous robot that navigates unknown 8x8 physical mazes. It dyn
   </a>
   <br><br>
   <a href="https://youtube.com/shorts/6uRz4zcfJzI">
-    <img src="https://img.shields.io/youtube/views/6uRz4zcfJzI?style=social" alt="Views"/>
-    <br>
     <img src="https://img.youtube.com/vi/6uRz4zcfJzI/0.jpg" width="400" alt="Micromouse Thumbnail"/>
   </a>
 </div>
 
 <br>
 
-### 2. SENSE Platform | 🏆 1st Place, AI4Purpose Hackathon
+### 3. SENSE Platform | 🏆 1st Place, AI4Purpose Hackathon
 *AI/ML, Voice Pitch Analysis, Computer Vision, UI/UX*
 
-Developed a dual-interface screening platform addressing the pediatric mental health crisis. The system monitors behavioral patterns and facial expressions during therapy sessions, integrating voice pitch analysis to accurately detect emotional distress.
+Developed a dual-interface screening platform addressing the pediatric mental health crisis in the Gaza Strip. The system monitors behavioral patterns and facial expressions during therapy sessions, integrating voice pitch analysis to accurately detect emotional distress.
 
 <a href="https://drive.google.com/file/d/1pIIfQUiXlAdtXhg0tqPHaQnt85fzChjk/view?usp=sharing"><img src="https://img.shields.io/badge/▶️_Watch_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch SENSE Demo" /></a>
 
 <br>
 
-### 3. AmanQ Simulation | 🏅 Top 25, National AI & Quantum Hackathon
+### 4. AmanQ Simulation | 🏅 Top 25, National AI & Quantum Hackathon
 *Quantum Computing, AI Load Balancing, Simulated Annealing*
 
 A live simulation of a central controller managing multiple servers under stress. Utilized AI to identify critical files for vault storage and optimize server allocation, applying Quantum Computing principles to encrypt files and execute a simulated annealing algorithm.
@@ -88,14 +108,22 @@ A live simulation of a central controller managing multiple servers under stress
 
 <br>
 
-### 4. Smart Fruit Sorting System | 🏆 1st Place, Arduino End Game
+### 5. Smart Fruit Sorting System | 🏆 1st Place, Arduino End Game
 *Computer Vision, Arduino, Hardware Integration, Robotics*
 
-An automated sorting system built to support agricultural efficiency by separating crops based on quality and size. Integrated a custom physical conveyor belt mechanism controlled by Arduino microcontrollers to automate the physical sorting logic in real-time.
+An automated sorting system built to support agricultural efficiency by separating crops based on quality and size. Integrated a custom conveyor belt mechanism controlled by Arduino microcontrollers to automate the physical sorting logic in real-time.
 
 <a href="https://youtube.com/shorts/e4Xua6-JjoE"><img src="https://img.shields.io/badge/▶️_Watch_Conveyor_Belt-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Fruit Sorter" /></a>
 
 ---
+
+## 📜 Education & Certifications
+
+* **B.Sc. in Computer Systems Engineering** - Birzeit University
+* **AI Programming with Python and TensorFlow Nanodegree** - Udacity
+
+<br>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
