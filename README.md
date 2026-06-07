@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Animated Header with Twinkling Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Ruba!&fontSize=50&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=55&animation=twinkling" width="100%"/>
 
-<!-- Typing Cat GIF -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMzd3d4dHFpMGNpeHJyZXg2dncxd3IzM2d1cjZqMmcxZThqZ3AzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.webp" width="120"/>
 
 <br>
-**Bridging the hardware-software gap with AI, Embedded Systems, and Quantum Computing.**
+<b>Bridging the hardware-software gap with AI, Embedded Systems, and Quantum Computing.</b>
 <br><br>
 
 <a href="mailto:rubaaldaghamin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
