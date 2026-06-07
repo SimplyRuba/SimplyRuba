@@ -18,7 +18,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me & 🐾 My Journey
+## 👩🏻‍💻 About Me & My Journey
 
 I'm a Fourth-year **Computer Systems Engineering** student at Birzeit University, with a passion for building systems that solve real-world problems. I thrive in competitive environments and have a proven track record of securing multiple hackathon victories through rapid prototyping and system optimization.
 
@@ -129,7 +129,8 @@ An automated sorting system built to support agricultural efficiency by separati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/7Sageer/7Sageer/main/assets/bongo-cat.gif" width="150" alt="Bongo Cat Typing" />
+<img src="PASTE_YOUR_UPLOADED_GITHUB_LINK_HERE" width="150" alt="Aesthetic Cat" />
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 
