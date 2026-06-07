@@ -128,8 +128,9 @@ An automated sorting system built to support agricultural efficiency by separati
 <br>
 
 <div align="center">
-<!-- Hacker Cat Footer -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlveHRrOHJ4NzNwYnh4Y3IxeWl5YzM0YTNpazhlZWszc3R4OTBndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" width="150" />
+
+<img src="https://raw.githubusercontent.com/7Sageer/7Sageer/main/assets/bongo-cat.gif" width="150" alt="Bongo Cat Typing" />
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+
 </div>
