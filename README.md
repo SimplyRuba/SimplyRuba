@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- 1. Header Asset -->
-<img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/header.png" width="100%" alt="Hi there, I'm Ruba!"/>
+<!-- Animated Header with Twinkling Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Ruba!&fontSize=50&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=55&animation=twinkling" width="100%"/>
 
+<!-- Typing Cat GIF -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMzd3d4dHFpMGNpeHJyZXg2dncxd3IzM2d1cjZqMmcxZThqZ3AzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.webp" width="120"/>
+
+<br>
 **Bridging the hardware-software gap with AI, Embedded Systems, and Quantum Computing.**
 <br><br>
 
-<!-- Keep your original linked badges for function -->
 <a href="mailto:rubaaldaghamin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/ruba-aldaghamin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/SimplyRuba"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
@@ -17,11 +20,7 @@
 
 ---
 
-<!-- 2. About Me Section -->
-<!-- Use the 'About_Cats.png' asset here to replace the simple ## heading -->
-<img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/About_Cats.png" width="100%" alt="About Me Section"/>
-
-<br>
+## 👩🏻‍💻 About Me & 🐾 My Journey
 
 I'm a Fourth-year **Computer Systems Engineering** student at Birzeit University, with a passion for building systems that solve real-world problems. I thrive in competitive environments and have a proven track record of securing multiple hackathon victories through rapid prototyping and system optimization.
 
@@ -34,27 +33,30 @@ I'm a Fourth-year **Computer Systems Engineering** student at Birzeit University
 ---
 
 <div align="center">
-  <!-- 3. Skills Header Asset -->
-  <img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/skills_header.png" alt="🛠️ Skills & Technologies" width="50%"/>
-</div>
+  <h2>🛠️ Skills & Technologies</h2>
+  <!-- Using Skillicons for a much cleaner, aesthetic, unified grid -->
+  
+  <h3>Programming & Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,assembly&perline=6" />
+  </a>
 
-<!-- Option A: Use the integrated graphic style from the design -->
-<div align="center">
-  <img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/programming_grid.png" alt="Programming Skills" width="30%"/>
-  <img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/ai_grid.png" alt="AI Skills" width="30%"/>
-  <img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/hardware_grid.png" alt="Hardware Skills" width="30%"/>
-</div>
+  <h3>AI & Data Science</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,scikitlearn&perline=5" />
+  </a>
 
-<!-- Option B: Keep original badges if you prefer them centered like the original code -->
+  <h3>Hardware & Systems</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,linux,raspberrypi&perline=5" />
+  </a>
+</div>
 
 <br>
 
 ---
 
-<!-- 4. Projects Section Header -->
-<img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/projects_header.png" width="100%" alt="🚀 Featured Projects & Simulations"/>
-
-<br>
+## 🚀 Featured Projects & Simulations
 
 ### 1. Llama-3.1-8B Agentic Reasoning 🧠
 *Llama 3.1, LoRA, Unsloth, Python, PEFT*
@@ -71,8 +73,11 @@ Engineered an autonomous robot that navigates unknown 8x8 physical mazes. It dyn
 
 <div align="center">
   <a href="https://youtube.com/shorts/6uRz4zcfJzI">
-    <!-- Replace standard badge with the Micromouse Cat Card -->
-    <img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/micromouse_card.png" width="400" alt="Watch Micromouse Video"/>
+    <img src="https://img.youtube.com/vi/6uRz4zcfJzI/0.jpg" width="400" alt="Micromouse Thumbnail" style="border-radius:15px;"/>
+  </a>
+  <br>
+  <a href="https://youtube.com/shorts/6uRz4zcfJzI">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
   </a>
 </div>
 
@@ -105,17 +110,16 @@ An automated sorting system built to support agricultural efficiency by separati
 
 ---
 
-<!-- 5. Education Section Header -->
-<img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/education_header.png" width="100%" alt="📜 Education & Certifications"/>
-
-<br>
+## 📜 Education & Certifications
 
 * **B.Sc. in Computer Systems Engineering** - Birzeit University
 * **AI Programming with Python and TensorFlow Nanodegree** - Udacity
 
 <br>
 
-<!-- 6. Footer Asset -->
 <div align="center">
-<img src="YOUR_GITHUB_USERNAME/repo-name/main/assets/footer.png" width="100%" alt="Aesthetic Journey Complete"/>
+<!-- Hacker Cat Footer -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlveHRrOHJ4NzNwYnh4Y3IxeWl5YzM0YTNpazhlZWszc3R4OTBndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" width="150" />
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
