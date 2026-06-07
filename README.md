@@ -129,9 +129,9 @@ An automated sorting system built to support agricultural efficiency by separati
 
 <div align="center">
 
-<img src="PASTE_YOUR_UPLOADED_GITHUB_LINK_HERE" width="150" alt="Aesthetic Cat" />
+<img src="https://media1.tenor.com/m/5UrK7rSTuscAAAAd/goodbye-bye-bye.gif" width="150" alt="Goodbye Cat" />
+<br><br>
 
-<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 
 </div>
